@@ -27,3 +27,10 @@
    the fan state.
 8. Control the DC-Motor speed using PWM signal generated from Timer0.
 9. The project should be design and implemented based on the layered architecture
+
+## Project Simulation    
+![Project Simulation](https://github.com/M0hammedSaeed/Fan-Controller-Project/assets/114070625/5aca08ad-9ef0-448f-906c-a36a5b5354af)
+
+## Project Design 
+![Project Design](https://github.com/M0hammedSaeed/Fan-Controller-Project/assets/114070625/31b2b288-55f6-4b2b-a84f-bf1d1a316707)
+
